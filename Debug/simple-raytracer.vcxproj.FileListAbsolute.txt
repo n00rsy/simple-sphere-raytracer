@@ -1,0 +1,2 @@
+C:\Dev\simple-raytracer\Debug\simple-raytracer.exe
+C:\Dev\simple-raytracer\Debug\simple-raytracer.pdb

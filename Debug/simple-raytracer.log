@@ -1,0 +1,40 @@
+﻿  simple-raytracer.cpp
+C:\Dev\simple-raytracer\simple-raytracer.cpp(15,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+C:\Dev\simple-raytracer\simple-raytracer.cpp(127,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dev\simple-raytracer\simple-raytracer.cpp(132,66): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Dev\simple-raytracer\simple-raytracer.cpp(140,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dev\simple-raytracer\simple-raytracer.cpp(153,27): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\simple-raytracer\simple-raytracer.cpp(181,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\simple-raytracer\simple-raytracer.cpp(185,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\simple-raytracer\simple-raytracer.cpp(186,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\simple-raytracer\simple-raytracer.cpp(209,82): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Dev\simple-raytracer\simple-raytracer.cpp(210,73): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Dev\simple-raytracer\simple-raytracer.cpp(210,82): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Dev\simple-raytracer\simple-raytracer.cpp(211,71): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Dev\simple-raytracer\simple-raytracer.cpp(211,80): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Dev\simple-raytracer\simple-raytracer.cpp(212,74): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Dev\simple-raytracer\simple-raytracer.cpp(212,85): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Dev\simple-raytracer\simple-raytracer.cpp(213,73): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Dev\simple-raytracer\simple-raytracer.cpp(213,84): warning C4305: 'argument': truncation from 'double' to 'const float'
+  simple-raytracer.vcxproj -> C:\Dev\simple-raytracer\Debug\simple-raytracer.exe
